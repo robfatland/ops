@@ -1,9 +1,5 @@
 # ops
-links supporting projects, operations
-
-* Crazy out there? Check the [Seattle street cams](https://web6.seattle.gov/travelers/).
-
-## cloud
+links supporting projects and operations (plus local [streets](https://web6.seattle.gov/travelers/) and [tides](http://www.dairiki.org/tides/daily.php/ert).
 
 ### project
 
@@ -16,6 +12,7 @@ links supporting projects, operations
 * Jupyter classrooms
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
 * [PythonBytes middle school coding club](https://github.com/robfatland/pythonbytes)
+* [marine ops](http://github.com/robfatland/flyingbosun)
 
 ### platform
 
