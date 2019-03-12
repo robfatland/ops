@@ -1,5 +1,5 @@
 # ops
-[Project/ops nexus](http://github.com/robfatland/ops) (plus local [streets](https://web6.seattle.gov/travelers/), [tides](http://www.dairiki.org/tides/daily.php/ert) and [marine ops](http://github.com/robfatland/flyingbosun)).
+[Project/ops nexus](http://github.com/robfatland/ops) (plus local [streets](https://web6.seattle.gov/travelers/), [tides](http://www.dairiki.org/tides/daily.php/ert) and [Oncorhynchus sampling](http://github.com/robfatland/flyingbosun)).
 
 ### project
 
