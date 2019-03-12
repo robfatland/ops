@@ -14,7 +14,7 @@
 * [pangeo](http://pangeo.io)
 * [High Mountain Asia](http://himat.org/), also [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
 * [OOI Cabled Array Value-Add](http://github.com/robfatland/synoptic)
-* [Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
+* [Data8 / Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
 * [PythonBytes middle school coding club](https://github.com/robfatland/pythonbytes)
 
@@ -43,6 +43,6 @@
 
 ### data
 
-* [Apache Spark](https://spark.apache.org/documentation.html) and 
-[W](https://en.wikipedia.org/wiki/Apache_Spark)
+* [Apache Spark](https://spark.apache.org/documentation.html) 
+([W](https://en.wikipedia.org/wiki/Apache_Spark))
 * [BlazingSQL](https://docs.blazingdb.com) is new, tested on GCP and claims to be faster than Spark
