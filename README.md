@@ -17,7 +17,7 @@ links supporting projects and operations (plus local [streets](https://web6.seat
 ### platform
 
 * [Amazon Web Services](http://aws.amazon.com)
-* [Google Cloud Platform](http://gcp.google.com)
+* [Google Cloud Platform](http://cloud.google.com)
 * [Microsoft Azure](http://azure.microsoft.com)
 * NVIDIA RAPID
 * IBM Cloud
