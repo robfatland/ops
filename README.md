@@ -1,5 +1,5 @@
 # ops
-[Project/ops nexus](http://github.com/robfatland/ops) (plus local [streets](https://web6.seattle.gov/travelers/) and [tides](http://www.dairiki.org/tides/daily.php/ert)).
+[Project/ops nexus](http://github.com/robfatland/ops) (plus local [streets](https://web6.seattle.gov/travelers/), [tides](http://www.dairiki.org/tides/daily.php/ert) and [marine ops](http://github.com/robfatland/flyingbosun)).
 
 ### project
 
@@ -13,7 +13,6 @@
 * [Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
 * [PythonBytes middle school coding club](https://github.com/robfatland/pythonbytes)
-* [marine ops](http://github.com/robfatland/flyingbosun)
 
 ### platform
 
