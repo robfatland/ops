@@ -1,5 +1,5 @@
 # ops
-links supporting projects and operations (plus local [streets](https://web6.seattle.gov/travelers/) and [tides](http://www.dairiki.org/tides/daily.php/ert)).
+[Project/ops nexus](http://github.com/robfatland/ops) (plus local [streets](https://web6.seattle.gov/travelers/) and [tides](http://www.dairiki.org/tides/daily.php/ert)).
 
 ### project
 
