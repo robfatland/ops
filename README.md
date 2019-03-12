@@ -24,8 +24,9 @@
 
 * [Amazon Web Services](http://aws.amazon.com) + [SageMaker](https://aws.amazon.com/sagemaker/) + 
 [open data](https://registry.opendata.aws/)
-* [Google Cloud Platform](http://cloud.google.com) + [colab](https://colab.research.google.com/) 
-+ [GEE](https://earthengine.google.com)
+* [Google Cloud Platform](http://cloud.google.com) + 
+[colab](https://colab.research.google.com/) +
+[GEE](https://earthengine.google.com)
 * [Microsoft Azure](http://azure.microsoft.com) + 
 [ML Studio](https://studio.azureml.net) +
 [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth)
