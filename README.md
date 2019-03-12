@@ -6,7 +6,7 @@
 * [Dog Aging Project](http://dogagingproject.com/)
 * Surgical Site Infection and [Secure Computing Environments](https://github.com/robfatland/sce)
 * [megaptera](http://github.com/robfatland/whalebooks), 
-[the game](http://megaptera.swipesforscience.org/#/) and [Bio-Acoustic Transfer Learning](https://github.com/pshivraj/batl)
+[the megaptera *game*](http://megaptera.swipesforscience.org/#/) and [Bio-Acoustic Transfer Learning](https://github.com/pshivraj/batl)
 * [pangeo](http://pangeo.io)
 * [High Mountain Asia](http://himat.org/), also [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
 * [OOI Cabled Array Value-Add](http://github.com/robfatland/synoptic)
