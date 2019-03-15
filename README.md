@@ -8,7 +8,7 @@
 
 * [Dog Aging Project](http://dogagingproject.com/)
 * Surgical Site Infection and [Secure Computing Environments](https://github.com/robfatland/sce)
-* [megaptera](http://github.com/robfatland/whalebooks), 
+* [megaptera](http://github.com/whaledr/whalebooks), 
 [the megaptera *game*](http://megaptera.swipesforscience.org/#/) and 
 [bio-acoustic transfer learning (batl)](https://github.com/pshivraj/batl)
 * [pangeo](http://pangeo.io)
