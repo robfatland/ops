@@ -13,7 +13,13 @@
 [bio-acoustic transfer learning (batl)](https://github.com/pshivraj/batl)
 * [pangeo](http://pangeo.io)
 * [High Mountain Asia](http://himat.org/), also [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
-* [OOI Cabled Array Value-Add](http://github.com/robfatland/synoptic)
+* [Jupyter notebooks for RCO](https://github.com/cormorack/notebooks) and related 
+[synoptic](http://github.com/robfatland/synoptic), 
+[cmr](http://github.com/pangeo-data/cmr), 
+[gallery](http://github.com/robfatland/gallery), 
+[whalebooks](http://github.com/cormorack/whalebooks), and 
+[batl](http://https//github.com/pshivraj/batl) 
+repos
 * [Data8 / Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
 * [PythonBytes middle school coding club](https://github.com/robfatland/pythonbytes)
