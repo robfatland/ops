@@ -20,7 +20,7 @@
 [cmr](http://github.com/pangeo-data/cmr), 
 [gallery](http://github.com/robfatland/gallery), 
 [whalebooks](http://github.com/cormorack/whalebooks), and 
-[batl](http://https//github.com/pshivraj/batl) 
+[batl](http://https//github.com/pshivraj/batl) [...](http://app-dev.ooica.net/)
 repos
 * [Data8 / Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
