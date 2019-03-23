@@ -13,7 +13,7 @@
 [bio-acoustic transfer learning (batl)](https://github.com/pshivraj/batl)
 * [pangeo](http://pangeo.io) and associated [cmr](https://github.com/pangeo-data/cmr) and 
 [outreach](https://github.com/pangeo-data/education-outreach)
-* [High Mountain Asia](http://himat.org/), al) and 
+* [High Mountain Asia](http://himat.org/) and 
 [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
 * [Jupyter notebooks for RCO](https://github.com/cormorack/notebooks) and related 
 [synoptic](http://github.com/robfatland/synoptic), 
