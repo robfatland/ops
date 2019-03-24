@@ -18,7 +18,7 @@
 * [Jupyter notebooks for RCO](https://github.com/cormorack/notebooks) and related 
 [synoptic](http://github.com/robfatland/synoptic), 
 [cmr](http://github.com/pangeo-data/cmr), 
-[gallery](http://github.com/robfatland/gallery), 
+[gallery](http://github.com/cormorack/gallery), 
 [whalebooks](http://github.com/cormorack/whalebooks), and 
 [batl](http://https//github.com/pshivraj/batl) 
 repos[...](http://app-dev.ooica.net/)
