@@ -9,7 +9,7 @@ the dingy and vast network of neurons that is my brain onto center stage: 'Criti
 (I thought) the scholarly term for 'Explanation'. It lingered there, that word, just long enough to leave a little 
 imprint in my memory... and so as I walked among the Bouquinistes glancing at titles on spines and covers, I saw at 
 some remove the title 'Une critique des premières œuvres de da Vinci'. A moment later it was in my hand, and flipping 
-through a few pages finding words, words, words, and then 4 francs it was in my backpack. I would wring from this little 
+through a few pages finding words, words, words, and then 4 francs lighter it rested in my backpack. I would wring from this little 
 book the reason at last: Why I should care, about all these long-dead people in these ancient frames on these celebrated
 ancient walls of the Palais du Louvre? 
 
