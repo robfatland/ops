@@ -6,6 +6,8 @@ always more beautiful. In fact it began earlier though, *plus t&#244;t*. It bega
 the galleries, walking through time, wishing that I understood
 why these paintings were here, what they meant, in these places of honor. Were they simply the only paintings that
 had survived the 1600s? Was there a story behind them?
+
+
 As I walked through the crowds, growing more disenchanted, a word from my school days made its way through 
 the dingy and vast network of my brain: 'Criticism'. I needed a criticism... a scholarly word for 'Explanation'. 
 It lingered there, that word, long enough to leave a little 
@@ -15,5 +17,5 @@ the book was in my hand, and me flipping pages, finding words, words, words, and
 in my backpack. I would wring from this little 
 book the reason at last for an arm load of those paintings. Why I should care? For all these long-dead people 
 in these ancient frames on those celebrated, enshrined, ancient walls of the Palais du Louvre... what was 
-so ... about da Vinci's early works? 
+so ... about da Vinci's early works?  
 
