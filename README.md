@@ -24,6 +24,7 @@
 repos[...](http://app-dev.ooica.net/)
 * [Data8 / Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 * Lightweight Data Systems including [Zero2API](https://github.com/robfatland/Zero2API)
+* [costnotify](https://github.com/robfatland/costnotify), a re-do of the AWS Lambda function to get a daily burn report
 * [PythonBytes middle school coding club](https://github.com/robfatland/pythonbytes)
 
 
