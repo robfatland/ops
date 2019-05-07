@@ -103,3 +103,9 @@ walking the pattern.
 
 ### Once and for good
 
+
+### lament
+
+* I never lost a single ounce of weight by failing to eat a cookie
+* By extension if I fail to eat a thousand cookies I lose no weight. I'm just 1000 cookies sad.
+
