@@ -1,7 +1,7 @@
 # friction
 
 Notes for my future self on healf. To cut to the chase see the 
-[**sub-problem**](https://github.com/robfatland/ops/blob/master/friction/README.md/the_sub-problem) section below.
+[**sub-problem**](https://github.com/robfatland/ops/blob/master/friction/README.md#the_sub-problem) section below.
 
 ## Overview
 
