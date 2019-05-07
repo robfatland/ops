@@ -4,17 +4,18 @@ Notes for my future self on health
 
 ## Overview
 
-Nobody needs another weight loss book but I do benefit from multiple sources on Youtube rock climbing videos; so 
-if this has relevance as such: So much the better. But this is written by me for me: On how I lost 60 pounds and
-got healthy without ever eating a salad. In fact this README was started when I was down 27 pounds of 60; but having
-hit the light-at-the-end-of-the-tunnel moment realizing I'm going to get there it is time to start thinking about
-sustainability. 
+I do benefit from multiple sources on Youtube; for example rock climbing videos each have some value. Usually. 
+Before collecting sources here I will write out my thinking: By me for me. 
+I started this at 27 pounds down in a plan to lose 60 *and get healthy otherwise* in the process. 
+Motivation is the idea that I have not yet solved the 'sustain' problem. The plan 
+of this README is to first outline my current state of thinking, then to collect some external
+information, then to write out a synthesis to sustain the state of health I am traveling towards.
 
-## Notes
+## Current state of thinking
 
 Let's start with a set of 'inputs' around the basic task of becoming and staying healthy.
 
-### fitness programs, pro and con.
+### fitness program: pro and con.
 
 - Gym X Fitness Program Y makes two good points that are worth internalizing
   - Satiety or 'feeling full' is a combination of real body stimulus and perception
@@ -26,8 +27,8 @@ Let's start with a set of 'inputs' around the basic task of becoming and staying
   - Thinking that they somehow care is putting eggs in an Illusion Basket
     - The problem comes when the program ends *if my behavior is predicated on their support/caring*
 
-Many other useful ideas come out of Gym X Fitness Program Y. The main takeaways from the above notes: First
-it is easy for me to have surface motivation and deep motivation is difficult; it can't come from an external
+Many other useful ideas come out of Gym X Fitness Program Y but the main takeaways from the above notes: First
+it is easy for me to have surface motivation and yet deep motivation is difficult; it can't come from an external
 point of origin. Second the mechanics of nutrition are about as complicated as a car. Not dead simple, not
 rocket science, somewhere in between. The day-to-day operation is pretty simple in fact but if I neglect the
 details (like regular oil changes and brown rice in preference to white rice) it is going to cut down on 
@@ -36,15 +37,39 @@ how long the car lasts.
 ### health versus BMI
 
 The primary goal of this exercise -- writing this up -- is to avoid 'this time around'. It would be very 
-pleasant to solve my health once and for good. The notes here will identify 'this time around' with the
-idea that it is the last time around. As Cerebus says 'The novelty of being dropped on your head wears thin
+pleasant to solve my health once and for good. The notes here identify 'this time around' as the last time 
+around; because as Cerebus says 'The novelty of being dropped on your head wears thin
 in a hurry.' The novelty of getting to a goal... temporarily... has really worn thin. Fortunately I did have
 a precipitating event to help me try and re-frame the idea of a goal. This event was: My dad died. He was 28
-when I was born. Did the clock start a 28 year countdown the day he passed away? 
+when I was born. Did the clock start a 28 year countdown the day he passed away? Let's suppose the answer
+is 'yes unless'. Welcome dear future self to unless.
 
-Health is related to joy of being alive in a virtuous cycle. Another bait-and-switch is the idea that weight 
-is health. Or BMI is health.  And permit me to remind you -- future self -- that 'this time around' you began
-with just that idea. 
+I think health is related to joy of being alive in a virtuous cycle. Another bait-and-switch is the idea that weight 
+is health. Or BMI is health.  And permit me to remind you future self that 'this time around' you began
+with just that idea. 'Healthy' was just lip service, weight was the read-out on reification. This was supported
+by the idea that weight loss is 90% diet and 10% exercise. Based on prior trips around the cycle where exercise 
+was the leading mindset: You decided this time it would be 100% diet. That started after a startling scale reading
+on August 3 2018. 
+
+### Friction and Fraction
+
+Taking the health problem as *large* it must be amenable to a *large* solution. This is ***False***. 
+
+Why is it False? Because it's me. The approach this final time around is to create a large solution that is fractionated
+into many many small pieces, like a hundred. Each of these pieces is then sub-fractionated into a score, 
+say on a scale of 10: How well am I doing with that small piece? For example reducing raw sugar consumption is 
+a fractional goal but I still put sugar in my morning coffee. So I do not get a 10 score on that yet. 
+Writing this out is another fractional task, part of a self-reflection process. 
+
+
+Friction acts against motion to constrain it. The habits I have to change are so ingrained that I realized I could
+not hope to simply contravene them, certainly not all at once. The best I could hope for would be to create little
+bits of resistance to try and slow down the habit. It often feels like trying to slow a freight train with a Q-tip. 
+But there is no end to the supply of Q-tips to an imaginative soul. If there is a second world that is made real 
+by thinking (and thinking makes it so) then my imagined solution is to create so many Q-tip efforts at frictionalizing
+my habits that eventually measurable changes will appear. 
+
+
 
 ### Once and for good
 
