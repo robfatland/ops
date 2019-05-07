@@ -73,48 +73,89 @@ Match.
 
 ### the sub-problem
 
-This is probably the most important idea here. Buried down seven sub-sections deep... anyway: Don't treat 
-an obstacle as an obstacle because it will disappear from view and become an invisible obstacle. Treat an
-obstacle as an active challenge so that you can solve it. The task of identifying the *actual* obstacle
-and figuring out how to make it an active solvable problem is the ***sub-problem***. Sub-problem skill is
+This is probably the most important idea here: Don't treat 
+an *obstacle* as an obstacle because you habitually dismiss obstacles with no obvious solution.
+What happens? The obstacle disappears from view. It becomes an *invisible* obstacle. 
+
+
+Rather: Treat an obstacle as an active challenge that you can solve. This absolutely requires looking
+at a *perceived* obstacle and asking yourself repeatedly "What is the real obstacle behind this perception?"
+This task -- identifying the *actual* obstacle is what leads to framing a solvable problem. Turning an
+impossible obstacle into an actively solvable problem is the ***sub-problem***. Sub-problem skill is
 the grandest of all skills to develop. I often marvel at how bad I am at sub-problems after I accidentally
 solve one.
 
+
 ### Friction and Fraction
+
 
 Taking the health problem as *large* it must be amenable to a *large* solution. This is ***False***. 
 
+
 Why is it False? Because it's me. The approach this final time around is to create a large solution that 
 is fractionated into many many small pieces. Each of these pieces is then sub-fractionated into a score, 
-say on a scale of 10: How well am I doing with a small piece? For example reducing raw sugar consumption is 
+say on a scale of 10: How well am I doing with this small piece? For example reducing sugar consumption is 
 a fractional goal but I still put sugar in my morning coffee. So I do not get a 10 score on that yet. 
-Writing this out is another fractional task, part of self-reflection. 
+Writing this out is another fractional task, a self-reflection. 
 
 
-Friction acts against motion to constrain it. The habits I have to change are so ingrained that I realized I could
-not hope to simply contravene them, certainly not all at once. The best I could hope for would be to create little
+Friction acts against motion to constrain it. The habits I have to change are so ingrained that I cannot
+hope to simply contravene them, certainly not all at once. The best I could hope for would be to create little
 bits of resistance to try and slow down the habit. It often feels like trying to slow a freight train with a Q-tip. 
-But there is no end to the supply of Q-tips to an imaginative soul. If there is a second world that is made real 
-by thinking (and thinking makes it so) then my imagined solution is to create so many Q-tip efforts at frictionalizing
-my habits that eventually measurable changes will appear. 
+But there is no end to the supply of Q-tips for the imaginative soul. If there is a world made real 
+by thought (for there is nothing either good or bad but thinking makes it so) then my thought solution is 
+to create so many Q-tip frictions slowing my habits that eventually measurable changes will appear. 
+Thinking makes it so.
 
 
 ### Daily attention
 
 
-In the rather dreadful 'Chronicles of Amber' Zelazny designs a pattern that a lead character must walk. It is 
-magical and very difficult. But once he gets through it he is revived and can teleport anywhere he likes. 
+In the dreadful fantasy series 'Chronicles of Amber' Zelazny describes a pattern drawn on the ground. 
+It is like a chalk path drawn on parking lot asphalt. The lead character must 'walk the pattern'. Doing so is 
+a magical and a very difficult procedure. But then once he gets through it, arriving at the end, he is revived 
+and can teleport to anywhere he likes. 
 
 
-Every day I get to the Park-N-Ride and walk my own pattern: Of parking spaces that are numbered from where
-my weight started to where it is on that day. I often miss my bus in favor of the next one in order to complete
-walking the pattern. 
+Every day I go to work I park at the the Park-N-Ride and walk my a pattern. This is numbered parking spots. I
+start at my starting weight and walk down the numbers to arrive at my weight from that morning. 
+I frequently miss the next bus to finish walking the day's pattern. I try and focus on the pounds getting lifted
+off of me as I walk. This is one of several points during the day where I try and set aside my day and live 
+inside this process. This helps dispel the white knuckle feeling of irrational despair: Looking at the big 
+project and being unable to solve it and move on (with a serving of chocolate cake please). 
+
 
 ### Once and for good
 
 
-### lament
+Here I need to find the sub-problem. Shout out to the un-found sub-problem. 
 
-* I never lost a single ounce of weight by failing to eat a cookie
-* By extension if I fail to eat a thousand cookies I lose no weight. I'm just 1000 cookies sad.
 
+I do not know the way to changing *goal* to *solved*. 
+
+
+I am still on my way
+to *goal* so let me elaborate that. To climb well I need a lot of core strength plus flexibility. And be lighter, true.
+How many cookies do I wish to bring up the wall with me? All of them. Ok so lighter means losing the 60 pounds. 
+If I have 28 years left then at 3/4 of that -- at a healthy weight -- it stands to reason I get another 7 years 
+by staying healthy.  However I will choose to think of it as nonlinear in my favor. 
+
+
+### lament and mourning
+
+* I never lost a single ounce of weight passing up a cookie
+* Therefore when I fail to eat a thousand cookies I lose no weight
+* Rather I am just 1000 cookies sadder
+* Therefore I should eat 1000 cookies
+* And so I die young and happy, full of cookies
+* But I don't want to die young and happy so I have to kill the version of myself who dies young and happy
+* That version of myself is carrying around a 60 pound weight every day, poor fellow
+* He doesn't complain about this
+* In fact he smiles all the time and he makes jokes and he tries to contribute to the world
+* He is an honorable, pleasant fellow... and now I have to kill him
+* I mourn his loss, I mourn the loss of this poor fellow myself-full-of-cookies
+* If it becomes unbearable I can bring him back to life simply by eating a cookie
+
+# solved
+
+This section deliberately left blank
