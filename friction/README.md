@@ -51,6 +51,21 @@ by the idea that weight loss is 90% diet and 10% exercise. Based on prior trips 
 was the leading mindset: You decided this time it would be 100% diet. That started after a startling scale reading
 on August 3 2018. 
 
+Fortunately this delusion started the process off *gradually* so that I grew from my role of weight loser
+into the more complete role of health manager. The phrase 'use it or lose it' kept playing somewhere in the
+back of my mind... but this was just some gasoline. Needed a match... but I didn't worry too much about the 
+dearth of matches. And then one winter day the child had a play date at the Seattle Boulder Project so I rented 
+shoes and a chalk bag so as to keep tabs on her. Match. 
+
+### the sub-problem
+
+This is probably the most important idea here. Buried down seven sub-sections deep... anyway: Don't treat 
+an obstacle as an obstacle because it will disappear from view and become an invisible obstacle. Treat an
+obstacle as an active challenge so that you can solve it. The task of identifying the *actual* obstacle
+and figuring out how to make it an active solvable problem is the ***sub-problem***. sub-problem skill is
+the grandest of all skills to develop. I often marvel at how bad I am at sub-problems after I accidentally
+solve one.
+
 ### Friction and Fraction
 
 Taking the health problem as *large* it must be amenable to a *large* solution. This is ***False***. 
