@@ -1,16 +1,17 @@
 # friction
 
-Notes for my future self on health 
+Notes for my future self on healf. To cut to the chase see the 
+[**sub-problem**](the_sub-problem) section below.
 
 ## Overview
 
 I do benefit from multiple sources on Youtube; for example rock climbing videos each have some value. Usually. 
 So perhaps this has some value as a data point. Any case I can aggregate ideas from other sources... but
 before I: Some reflection: By me for me. 
-I started this at 27 pounds down in a plan to lose 60 *and get healthy otherwise actually* in the process. 
+I started this writeup at 27 pounds down in a plan to lose 60 *and get healthy otherwise actually* in the process. 
 I have not yet solved the 'sustain' problem. The plan 
 of this README is to first outline my current state of thinking, then collect external
-information, then write out a synthesis sustaining health as I travel on.
+information, then write out a synthesis on sustaining health.
 
 ## Current state of thinking
 
@@ -38,28 +39,36 @@ cut down on how long the car lasts.
 ### health versus BMI
 
 The primary goal of this exercise -- writing this up -- is to avoid 'this time around'. It would be very 
-pleasant to solve my health once and for good. That is *solved* in contrast to *goal reached*. 
-The notes here identify solved as a change from 'this time around' to 'last time 
-around'; because as Cerebus says 'The novelty of being dropped on your head wears thin
-in a hurry.' The novelty of getting to a goal *temporarily* has really worn thin. Fortunately I did have
-a precipitating event to help me try and re-frame from *goal* to *solved*. This event was: My dad died. 
+pleasant to solve my health once and for good. That is: *Solved* in contrast to *goal reached*. 
+The notes here identify solved as a change from 'this time around' to 'this is the last time 
+around'; because as Cerebus says the novelty of being dropped on your head wears thin
+in a hurry. The novelty of getting to a goal *temporarily* has really worn thin. Fortunately I did have
+a precipitating event to help me try and re-frame from *goal* to *solved*. This event was my dad dying. 
 He was 28 when I was born. Did a 28 year countdown clock start ticking the day he passed away? 
-I suppose the answer is 'yes unless'. Welcome dear future self to ***unless***.
+I suppose the answer is 'yes unless' so welcome dear future self to ***unless***.
 
 
-I think health is related to joy of being alive in a virtuous cycle. Another bait-and-switch is the idea that weight 
-is health. Or BMI is health.  And permit me to remind you future self that 'this time around' you began
-with just that idea. 'Healthy' was just lip service, weight was the read-out on reification. This was supported
-by the idea that weight loss is 90% diet and 10% exercise. Based on prior trips around the cycle where exercise 
-was the leading mindset: You decided this time it would be 100% diet. That started after a startling scale reading
-on August 3 2018. 
+I think health is related to joy of being alive in a virtuous cycle. Thinking this is so but then failing
+to live that way is a self bait-and-switch. 'Yeah obviously but today I just don't have time to eat healthy.'
+
+Another bait-and-switch is the idea that weight is health. Or BMI is health.  And permit me to remind you,
+dear future self, that this time around (this *last* time around) you began with just that idea. 
+'Healthy' was the lip service, weight was the reified read-out... and that is actually just fine. Better to
+start under unresolved motivation than not start out. 
+
+I also started out with the idea that weight loss is 90%+ from diet and 10%- from exercise. 
+On prior trips around the loss/gain cycle I used exercise as the lead dog, the 90%.  This time I began with
+"it has to be 100% diet". The start day was August 3 2018.
 
 
-Fortunately this delusion started the process off *gradually* so that I grew from my role of weight loser
-into the more complete role of health manager. The phrase 'use it or lose it' kept playing somewhere in the
-back of my mind... but this was just some gasoline. Needed a match... but I didn't worry too much about the 
-dearth of matches. And then one winter day the child had a play date at the Seattle Boulder Project so I rented 
-shoes and a chalk bag so as to keep tabs on her. Match. 
+The process began very *gradually* and over the first nine months my mindset has changed from weight loser
+to a more complete mindset of health manager. Before this change: The phrase 'Use it or lose it' kept playing somewhere 
+in the back of my mind... but it was only sloshing gasoline, no match... and I didn't worry too much about the 
+dearth of matches. Then one winter day the child had a playdate at the Seattle Boulder Project so I rented 
+some tight shoes and a chalk bag and wandered in so as to keep tabs on her. 
+
+
+Match. 
 
 
 ### the sub-problem
