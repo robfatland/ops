@@ -6,8 +6,9 @@
 ### project
 
 
-* [binderize a repo](http://github.com/robfatland/ops)
+* [make a Python environment self-configurable...](http://github.com/robfatland/ops)
   * Can use `environment.yml` or `requirements.txt`
+    * The latter is associated with `pip install` and can be made a sub-component of the former
     * `environment.yml` as follows
       * `conda env export` produces `environment.yml`
     * `requirements.txt` as follows
