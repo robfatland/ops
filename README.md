@@ -6,6 +6,16 @@
 ### project
 
 
+* [binderize a repo](http://github.com/robfatland/ops)
+  * Can use `environment.yml` or `requirements.txt`
+    * `environment.yml` as follows
+      * `conda env export` produces `environment.yml`
+    * `requirements.txt` as follows
+      * Create a virtual environment `python3 -m venv /path/to/new/virtual/env`
+      * Install packages using `pip install <package>`
+      * Save all packages `pip freeze > requirements.txt`
+      * "Pin all the package versions"... not sure what the action is or what this means
+      * Move `requirements.txt` to the root directory of the project
 * [Dog Aging Project](http://dogagingproject.com/)
 * Surgical Site Infection and [Secure Computing Environments](https://github.com/robfatland/sce)
 * [megaptera](http://github.com/whaledr/whalebooks), 
