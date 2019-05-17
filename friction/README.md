@@ -6,84 +6,132 @@ Notes for my future self on healf. To cut to the chase see the
 ## Overview
 
 I do benefit from multiple sources on Youtube; for example rock climbing videos each have some value. Usually. 
-So perhaps this has some value as a data point. Any case I can aggregate ideas from other sources... but
-before I: Some reflection: By me for me. 
-I started this writeup at 27 pounds down in a plan to lose 60 *and get healthy otherwise actually* in the process. 
-I have not yet solved the 'sustain' problem. The plan 
-of this README is to first outline my current state of thinking, then collect external
-information, then write out a synthesis on sustaining health.
+So perhaps this has some value as a data point. Any case the idea is to evaluate ideas from other sources... 
+after some core dump reflection. 
 
-## Current state of thinking
 
-Let's start with *prior input* and *reflections* on becoming and staying healthy.
+## Begin at X, go to Y, currently at Z where Y < Z < X
 
-### fitness program: pro and con.
+With **Z** looking encouraging I look ahead to the *sustain* problem: **<= Y**. 
 
-- Gym X Fitness Program Y makes two good points that are worth internalizing
-  - Satiety or 'feeling full' is a combination of real body stimulus and perception
+
+### fitness pro and con.
+
+- Gym P Fitness Program T: Emphasizes two useful ideas
+  - Satiety ('feeling full') is a combination of real body stimulus and perception
     - Perception has to be trained
   - Nutrition includes complex carbs, vegetables, fat, and protein
-    - For each category there are good and bad versions
-- Gym X Fitness Program Y also provides a self-defeating 'invisible' principle
-  - Not to fault them but the fitness program people are in it for the money. It is a business; of course! 
-  - Thinking that they care (beyond at a polite level) puts my eggs in an Illusion Basket
-    - The problem comes when the program ends *if my healthy behavior is predicated on them caring*
+    - For each category there are good and bad versions... except vegetables which are just good
+- Gym P Fitness Program T also provides a self-defeating 'invisible' principle
+  - Fitness program people are in it for the money, obviously...
+  - So thinking that they *care* (beyond politess) is not a business plan for sustainable health
+    - ...unless one has considerable wealth
+    - ...hence my healthy behavior has to rest on sterner foundations
 
-Many other useful ideas come out of Gym X Fitness Program Y but mainly: Surface motivation is easy
-and ineffectual; and deep motivation is difficult. It can't come from an external
-point of origin. Second point: The mechanics of nutrition are about as complicated as a car. Not dead 
+Many other useful ideas come out of Gym P Fitness Program T so two further principles before 
+I move on.
+
+Firstly surface motivation is easy and ineffectual whereas deep motivation is difficult and effective. 
+This must be internal, trained and habituated. From observation: Passive and reactive habits take years
+of repetitions to re-train. 
+
+Secondly: The mechanics of nutrition are about as complicated as a car. Not dead 
 simple, not rocket science, somewhere in between. The day-to-day operation is pretty simple in fact 
 but if details are neglected (like say regular oil changes or brown rice over white) it is going to 
 cut down on how long the car lasts. 
 
+### intermezzo on what works
+
+Sustainability websites abound; so here is a 17-element listing of what works from healthline. Numbers
+in paren are my degree of self-emphasis (averaging 'in practice' and 'my theoretical approach') on 1-10. 
+Odds of successfully making a permanent change are 1 in 5. 
+
+1. Exercise (10) Climbing, sailing
+2. Breakfast (10) Need to add a vegetable...
+3. Protein (8) Cheat towards salmon
+4. Weigh yourself (10) Daily
+5. Moderate carbs (7) less less less less
+6. Lift (10) A motivating context is necessary, see Exercise
+7. Setbacks happen (5) Resonates with the white knuckle problem
+8. Don't weekend-deviate (8) Alcohol in particular is kryptonite
+9. Hydrate (6) Does coffee count?
+10. Enough sleep (10) And regular hours
+11. Control stress (7) How?
+12. External support system (3) 
+13. Food tracker (4) I prefer to meditate
+14. Veggies (10) Nutrients for nothing and your Satiety for free
+15. Consistency (10) Though recalling that foolish consistency is the hobgoblin of little minds
+16. Mindful eating (9) 'What does a yellow light mean?'
+17. Realistic sustainable changes (10) Motivating this write-up
+
+What is missing from this list for me is consistent meditation on the process -- daily basis -- and 
+identification of points of failure in that meditation. For example I am frequently in improvisational situations with
+regard to calories-in. Open boxes of donuts abound; and even successfully refusing Empty Carbs of Opportunity (ECOs) 
+never feels like a solved problem. *Maybe* these refusals are getting a bit habituated after 3/4 of a year of repetitions.
+Stopping drinking mostly has helped a lot as well. After a small glass of wine brownies just flow into my hand as if by magic.
+
+
+Ok onward. 
+
+
 ### health versus BMI
 
-The primary goal of this exercise -- writing this up -- is to avoid 'this time around'. It would be very 
-pleasant to solve my health once and for good. That is: *Solved* in contrast to *goal reached*. 
-The notes here identify solved as a change from 'this time around' to 'this is the last time 
-around'; because as Cerebus says the novelty of being dropped on your head wears thin
-in a hurry. The novelty of getting to a goal *temporarily* has really worn thin. Fortunately I did have
-a precipitating event to help me try and re-frame from *goal* to *solved*. This event was my dad dying. 
-He was 28 when I was born. Did a 28 year countdown clock start ticking the day he passed away? 
-I suppose the answer is 'yes unless' so welcome dear future self to ***unless***.
+Writing this up intends to avoid 'this time around' syndrome. It would be very 
+pleasant to solve health once and for good. *Solved* in contrast to *goal reached*. 
+As Cerebus remarks: The novelty of being dropped on your head wears thin
+in a hurry. The novelty of reaching a goal *temporarily* has worn thin, particularly
+the white knuckle feeling of holding a precarious perch. Fortunately
+a precipitating event re-frames *goal* thinking as *solved* thinking. This was my dad dying. 
+He was 28 when I was born. Did a 28 year countdown clock start ticking?
+Am I Bellairs' house? I suppose the answer is 'yes unless' so welcome, future self, to ***unless***.
 
 
-I think health is related to joy of being alive in a virtuous cycle. Thinking this is so but then failing
-to live that way is a self bait-and-switch. 'Yeah obviously but today I just don't have time to eat healthy.'
-
-Another bait-and-switch is the idea that weight is health. Or BMI is health.  And permit me to remind you,
-dear future self, that this time around (this *last* time around) you began with just that idea. 
-'Healthy' was the lip service, weight was the reified read-out... and that is actually just fine. Better to
-start under unresolved motivation than not start out. 
-
-I also started out with the idea that weight loss is 90%+ from diet and 10%- from exercise. 
-On prior trips around the loss/gain cycle I used exercise as the lead dog, the 90%.  This time I began with
-"it has to be 100% diet". The start day was August 3 2018.
+I think health is related to a joy in living as a virtuous cycle. Thinking this is so but then failing
+to live that way is a self-swindle: I'm kidding myself to keep a surface level of 
+equanimity while engines of self-destruction churn away below street level. There is a larger 
+problem here and health is symptomatic. But just as I started this with a symptomatic 
+mindset (weight loss, not health gain) I'm happy to change the symptom (health gain, not
+joy in living) in the hope that I'm moving towards sorting that big one out. 
 
 
-The process began very *gradually* and over the first nine months my mindset has changed from weight loser
-to a more complete mindset of health manager. Before this change: The phrase 'Use it or lose it' kept playing somewhere 
-in the back of my mind... but it was only sloshing gasoline, no match... and I didn't worry too much about the 
-dearth of matches. Then one winter day the child had a playdate at the Seattle Boulder Project so I rented 
-some tight shoes and a chalk bag and wandered in so as to keep tabs on her. 
+### misguided tactics 
 
 
-Match. 
+To reiterate: 'Weight is health' is a good proxie but it's not completely accurate. BMI is a symptom; and 
+not all who sniffle have colds. But: better to start under inaccurate motivations than not start out. I also started 
+out with the idea that weight loss is 90%+ from diet and 10%- from exercise. On prior trips around this loop exercise 
+was the lead dog, doing the 90% heavy lifting.  This time I began with "100% diet, no exercise". The start day after a 
+year of false starts was August 3 2018.
+
+
+Over the first 3/4 year my mindset changed from weight loser to a health manager; but that transition is not done. 
+The phrase 'Use it or lose it' kept playing somewhere in the back of my mind... but only as sloshing gasoline... 
+Then one winter day a playdate at the Seattle Boulder Project obliged me to rent some tight-fitting shoes and a 
+chalk bag and I wandered about and managed a couple of VBs (most basic climbs). That was the match.  
 
 
 ### the sub-problem
 
-This is probably the most important idea here: Don't treat 
-an *obstacle* as an obstacle because you habitually dismiss obstacles with no obvious solution.
-What happens? The obstacle disappears from view. It becomes an *invisible* obstacle. 
+
+The most important bit of self-advice here: Don't treat 
+an *obstacle* as an obstacle because you habitually dismiss obstacles that have no obvious solution.
+The obstacle disappears from view, becomes an *invisible* obstacle. 
 
 
-Rather: Treat an obstacle as an active challenge that you can solve. This absolutely requires looking
-at a *perceived* obstacle and asking yourself repeatedly "What is the real obstacle behind this perception?"
-This task -- identifying the *actual* obstacle is what leads to framing a solvable problem. Turning an
+Rather: Treat an obstacle as a problem. It is an active challenge to solve it. This absolutely requires looking
+at a *perceived* obstacle and asking over and over again "What is the real obstacle behind this perception?"
+This task -- identifying the *actual* obstacle -- leads to framing a solvable problem. Turning an
 impossible obstacle into an actively solvable problem is the ***sub-problem***. Sub-problem skill is
 the grandest of all skills to develop. I often marvel at how bad I am at sub-problems after I accidentally
 solve one.
+
+The example here: I don't want to go lift weights at the gym because -- although I know it is good 
+for my health -- it just doesn't sound fun at the moment; so yeah use it or lose it but not today. The perceived
+obstacle is 'get to the gym to lift weights cause it is good for you'. Sub-problem thinking: 'Get to the gym to
+lift' is not the actual problem. What is the actual problem? What is the actual problem?? Oh... the actual 
+problem is 'Find an activity that is fun'. And by accidentally doing *that*...
+
+
 
 
 ### Friction and Fraction
@@ -92,37 +140,39 @@ solve one.
 Taking the health problem as *large* it must be amenable to a *large* solution. This is ***False***. 
 
 
-Why is it False? Because it's me. The approach this final time around is to create a large solution that 
-is fractionated into many many small pieces. Each of these pieces is then sub-fractionated into a score, 
-say on a scale of 10: How well am I doing with this small piece? For example reducing sugar consumption is 
-a fractional goal but I still put sugar in my morning coffee. So I do not get a 10 score on that yet. 
-Writing this out is another fractional task, a self-reflection. 
+Why is it False? Because it's me. The approach this final time around is a large solution 
+fractionated into many many small pieces. 17 keys to success? Don't make me laugh; I need at least 429
+of them, each key to be sub-fractionated into a score: How well am I doing with this small key? 
+For example reducing sugar consumption is a fractional goal but I still put sugar in my morning coffee. 
+Fractionation through self-reflection. 
 
 
-Friction acts against motion to constrain it. The habits I have to change are so ingrained that I cannot
+Friction acts against motion. The habits I have to change are so ingrained that I cannot
 hope to simply contravene them, certainly not all at once. The best I could hope for would be to create little
-bits of resistance to try and slow down the habit. It often feels like trying to slow a freight train with a Q-tip. 
-But there is no end to the supply of Q-tips for the imaginative soul. If there is a world made real 
+bits of resistance to try and slow down the habit. Slow a freight train with a Q-tip. 
+But there is no end to the supply of Q-tips for an imaginative soul. If there is a world made real 
 by thought (for there is nothing either good or bad but thinking makes it so) then my thought solution is 
 to create so many Q-tip frictions slowing my habits that eventually measurable changes will appear. 
 Thinking makes it so.
 
 
-### Daily attention
+### Daily weigh in 
 
 
 In the dreadful fantasy series 'Chronicles of Amber' Zelazny describes a pattern drawn on the ground. 
-It is like a chalk path drawn on parking lot asphalt. The lead character must 'walk the pattern'. Doing so is 
-a magical and a very difficult procedure. But then once he gets through it, arriving at the end, he is revived 
-and can teleport to anywhere he likes. 
+It is like a chalk path drawn on parking lot asphalt. One must 'walk the pattern'. Doing so is 
+a magical and difficult procedure. But nce through one is rejuvenated to teleport to the next story. 
 
 
-Every day I go to work I park at the the Park-N-Ride and walk my a pattern. This is numbered parking spots. I
-start at my starting weight and walk down the numbers to arrive at my weight from that morning. 
-I frequently miss the next bus to finish walking the day's pattern. I try and focus on the pounds getting lifted
-off of me as I walk. This is one of several points during the day where I try and set aside my day and live 
-inside this process. This helps dispel the white knuckle feeling of irrational despair: Looking at the big 
-project and being unable to solve it and move on (with a serving of chocolate cake please). 
+Every day I walk my pattern along numbered parking spots. I
+start at my starting weight X and walk down the numbers to arrive at my weight from that morning. 
+I often miss the next bus to finish. I try and feel the pounds lifting
+off as I walk, one of several set asides per day to live inside health as process. 
+This helps dispel a white knuckle feeling of irrational despair I feel. I look at the big 
+project and unable to solve it want to move on to a serving of chocolate cake please. 
+No, I will take the habit of the ceremony and let the hands relax. Geek Climber says 
+treat the holds like lightbulbs and you will be surprised at how little force is required
+to stay on the wall. 
 
 
 ### Once and for good
@@ -134,27 +184,34 @@ Here I need to find the sub-problem. Shout out to the un-found sub-problem.
 I do not know the way to changing *goal* to *solved*. 
 
 
-I am still on my way
-to *goal* so let me elaborate that. To climb well I need a lot of core strength plus flexibility. And be lighter, true.
-How many cookies do I wish to bring up the wall with me? All of them. Ok so lighter means losing the 60 pounds. 
-If I have 28 years left then at 3/4 of that -- at a healthy weight -- it stands to reason I get another 7 years 
-by staying healthy.  However I will choose to think of it as nonlinear in my favor. 
+ohhhhhh maybe i found it without realizing it. Maybe the thing is internalizing sub-problem thinking. 
+Bit of a logical land mine but I will think more about this. 
+
+### climbing 
+
+I need core and flexibility. And to be lighter because how many cookies does one wish to bring up 
+the problem? With 28 years left: Going to 3/4 the mass -- a healthy mass -- I get another 7 years 
+here.  However I choose to think of it as nonlinear in my favor. I get forever. 
 
 
-### lament and mourning
+### lament
 
-* I never lost a single ounce of weight passing up a cookie
-* Therefore when I fail to eat a thousand cookies I lose no weight
-* Rather I am just 1000 cookies sadder
+* I never lost so much as an ounce of weight by passing up a cookie
+* Therefore when I failed to eat a thousand cookies I lost no weight...
+* ...but rather was just 1000 cookies sadder
 * Therefore I should eat 1000 cookies
-* And so I die young and happy, full of cookies
-* But I don't want to die young and happy so I have to kill the version of myself who dies young and happy
-* That version of myself is carrying around a 60 pound weight every day, poor fellow
-* He doesn't complain about this
-* In fact he smiles all the time and he makes jokes and he tries to contribute to the world
-* He is an honorable, pleasant fellow... and now I have to kill him
+* And so die young and happy, full of cookies
+* I don't want to die young and happy 
+* So I must kill the version of myself who dies young and happy so he can't die young and happy
+* That version of myself young, happy and full of cookies carried around a weight of (X-Y) pounds, poor fellow
+* He did not complain about this
+* In fact he smiled a lot of the time and he made jokes and he tried to contribute to the world
+* He was an honorable fellow... and now I contemplate having killed him
 * I mourn his loss, I mourn the loss of this poor fellow myself-full-of-cookies
 * If it becomes unbearable I can bring him back to life simply by eating a cookie
+* Meanwhile he has been replaced by a chap carrying around (Z-Y) extra pounds...
+* ...whom I must kill and replace, kill and replace, until Z = Y
+* ...halfway there...
 
 # solved
 
