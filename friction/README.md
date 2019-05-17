@@ -165,13 +165,14 @@ a magical and difficult procedure. But nce through one is rejuvenated to telepor
 
 
 Every day I walk my pattern along numbered parking spots. I
-start at my starting weight X and walk down the numbers to arrive at my weight from that morning. 
-I often miss the next bus to finish. I try and feel the pounds lifting
-off as I walk, one of several set asides per day to live inside health as process. 
-This helps dispel a white knuckle feeling of irrational despair I feel. I look at the big 
+start at my starting weight X and walk down the numbers to arrive at my weight today Z 
+as measured that morning. 
+I often miss the next bus to finish. I imagine the (X-Z) pounds lifting
+off as I walk, one of several time set-asides each day to live inside health as process. 
+This helps dispel a white knuckle feeling of irrational despair. I look at the big 
 project and unable to solve it want to move on to a serving of chocolate cake please. 
-No, I will take the habit of the ceremony and let the hands relax. Geek Climber says 
-treat the holds like lightbulbs and you will be surprised at how little force is required
+No, I will take the habit of the ceremony and let the hands relax. Geek Climber says to 
+treat the holds like lightbulbs and be surprised at how little force is required
 to stay on the wall. 
 
 
