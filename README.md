@@ -25,7 +25,7 @@
 * [pangeo](http://pangeo.io) and associated [cmr](https://github.com/pangeo-data/cmr) and 
 [outreach](https://github.com/pangeo-data/education-material)
   * pangeo binder is one kettle of fish
-  * pangeo JHub is [here](https://nasa.pangeo.io)
+  * pangeo JHub is [here](https://nasa.pangeo.io); Allow and Default
 * [High Mountain Asia](http://himat.org/) and 
 [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
 * [Jupyter notebooks for RCO](https://github.com/cormorack/notebooks) and related 
