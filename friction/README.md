@@ -3,6 +3,14 @@
 Notes for my future self on healf. To cut to the chase see the 
 [**sub-problem**](https://github.com/robfatland/ops/blob/master/friction/README.md#the-sub-problem) section below.
 
+| Activity | Amount | Per | Date | Note |
+| -------- | ------ | --- | ---- | ---- |
+| pull ups | 20 | Day | 11-JUN-2019 | Band-assist or without (with some rests) |
+| push ups | 5 | try | | nose touch |
+| 211 | poids | | | |
+|
+
+
 ## Overview
 
 I do benefit from multiple sources on Youtube; for example rock climbing videos each have some value. Usually. 
