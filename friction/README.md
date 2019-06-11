@@ -1,14 +1,24 @@
 # friction
 
-Notes for my future self on healf. To cut to the chase see the 
+Health. See also the 
 [**sub-problem**](https://github.com/robfatland/ops/blob/master/friction/README.md#the-sub-problem) section below.
 
-| Activity | Amount | Per | Date | Note |
+| Activity | Amount | Unit | Date | Note |
 | -------- | ------ | --- | ---- | ---- |
-| pull ups | 20 | Day | 11-JUN-2019 | Band-assist or without (with some rests) |
-| push ups | 5 | try | | nose touch |
-| 211 | poids | | | |
-|
+| scale | 240 | | 03-AUG-2018 | |
+| pull ups | 20 | rpw | 11-JUN-2019 | Band-assist or without (some rests) |
+| pull ups | 0 | Day | | From dead hang |
+| push ups | 20 | rpw | | 'half' > nose touch |
+| push ups | 5 | try | | (nose touch) |
+| 1.5 pad hang | 20 | sec | | deepest groove |
+| 1 pad hang | 0 | sec | | deepest groove |
+| half pad hang | 0 | sec | | deepest groove |
+| scale | 211 | | | |
+| core work | 10 x 5 x 3 | rpw | routine from climber vids |
+| 0 | laps | rpw | | swimming cardio not started |
+| 0.13 | miles | pw | | at 9:20 / mile treadmill |
+| 500 | meters | pw | | rowing machine |
+
 
 
 ## Overview
