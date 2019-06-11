@@ -14,7 +14,7 @@ Health. See also the
 | 1 pad hang | 0 | sec | | deepest groove |
 | half pad hang | 0 | sec | | deepest groove |
 | scale | 211 | | | |
-| core work | 10 x 5 x 3 | rpw | routine from climber vids |
+| core work | 10 x 5 x 3 | rpw | | routine from climber vids |
 | 0 | laps | rpw | | swimming cardio not started |
 | 0.13 | miles | pw | | at 9:20 / mile treadmill |
 | 500 | meters | pw | | rowing machine |
@@ -23,133 +23,104 @@ Health. See also the
 
 ## Overview
 
-I do benefit from multiple sources on Youtube; for example rock climbing videos each have some value. Usually. 
-So perhaps this has some value as a data point. Any case the idea is to evaluate ideas from other sources... 
-after some core dump reflection. 
+I do benefit from multiple sources on Youtube; rock climbers publish great videos. Usually. 
+Targets are 177, 3 miles under 30 minutes, flash V5s with a lot of core and finger strength 'in service to', 
+and so on. 
 
 
-## Begin at X, go to Y, currently at Z where Y < Z < X
-
-With **Z** looking encouraging I look ahead to the *sustain* problem: **<= Y**. 
+### how many calories in a dove milk chocolate? 
 
 
-### fitness pro and con.
-
-- Gym P Fitness Program T: Emphasizes two useful ideas
-  - Satiety ('feeling full') is a combination of real body stimulus and perception
-    - Perception has to be trained
-  - Nutrition includes complex carbs, vegetables, fat, and protein
-    - For each category there are good and bad versions... except vegetables which are just good
-- Gym P Fitness Program T also provides a self-defeating 'invisible' principle
-  - Fitness program people are in it for the money, obviously...
-  - So thinking that they *care* (beyond politess) is not a business plan for sustainable health
-    - ...unless one has considerable wealth
-    - ...hence my healthy behavior has to rest on sterner foundations
-
-Many other useful ideas come out of Gym P Fitness Program T so two further principles before 
-I move on.
-
-Firstly surface motivation is easy and ineffectual whereas deep motivation is difficult and effective. 
-This must be internal, trained and habituated. From observation: Passive and reactive habits take years
-of repetitions to re-train. 
-
-Secondly: The mechanics of nutrition are about as complicated as a car. Not dead 
-simple, not rocket science, somewhere in between. The day-to-day operation is pretty simple in fact 
-but if details are neglected (like say regular oil changes or brown rice over white) it is going to 
-cut down on how long the car lasts. 
-
-### intermezzo on what works
-
-Sustainability websites abound; so here is a 17-element listing of what works from healthline. Numbers
-in paren are my degree of self-emphasis (averaging 'in practice' and 'my theoretical approach') on 1-10. 
-Odds of successfully making a permanent change are 1 in 5. 
-
-1. Exercise (10) Climbing, sailing
-2. Breakfast (10) Need to add a vegetable...
-3. Protein (8) Cheat towards salmon
-4. Weigh yourself (10) Daily
-5. Moderate carbs (7) less less less less
-6. Lift (10) A motivating context is necessary, see Exercise
-7. Setbacks happen (5) Resonates with the white knuckle problem
-8. Don't weekend-deviate (8) Alcohol in particular is kryptonite
-9. Hydrate (6) Does coffee count?
-10. Enough sleep (10) And regular hours
-11. Control stress (7) How?
-12. External support system (3) 
-13. Food tracker (4) I prefer to meditate
-14. Veggies (10) Nutrients for nothing and your Satiety for free
-15. Consistency (10) Though recalling that foolish consistency is the hobgoblin of little minds
-16. Mindful eating (9) 'What does a yellow light mean?'
-17. Realistic sustainable changes (10) Motivating this write-up
-
-What is missing from this list for me is consistent meditation on the process -- daily basis -- and 
-identification of points of failure in that meditation. For example I am frequently in improvisational situations with
-regard to calories-in. Open boxes of donuts abound; and even successfully refusing Empty Carbs of Opportunity (ECOs) 
-never feels like a solved problem. *Maybe* these refusals are getting a bit habituated after 3/4 of a year of repetitions.
-Stopping drinking mostly has helped a lot as well. After a small glass of wine brownies just flow into my hand as if by magic.
+Answer: 30. So I just had 120 calories. 
 
 
-Ok onward. 
+### useful ideas
 
+- Satiety ('feeling full') is a combination of real body stimulus and perception
+  - Perception and habit are *trained*
+- Nutrition includes complex carbs, vegetables, fat, and protein
+  - Good and bad... although vegetables are generally just good
+- The *invisibility* principle states 'There are invisible forces working against you; all based in your head'
+  - Fitness program people are doing a job whereas this is the acolyte's *life* at stake
+- Deep motivation is difficult but effective 
+  - Passive and reactive habits take years of reps to re-train
+  - Having a psychological reward in place for good choices is the only way i can see forward
+- Nutrition mechanics are like driving a car...
+  - Day to day is pretty simple
+  - Neglected details wear the parts down. Regular oil changes and brown rice. 
+
+
+### bullets that work for me
+
+Sustainability is complex. Here are some elements.
+
+1. Exercise... climbing, supportive work (cardio, hand, resistance, core, ...), sailing
+2. Breakfast as fixed event
+3. Protein
+4. Daily weigh-in
+5. Moderate carbs to less less less less
+6. Resistance training progression
+7. Setbacks happen; white knuckle problem
+8. Weekend deviation is real pressure; particularly alcohol carbs and chocolate
+9. Hydrate...
+10. Sleep enough
+11. Control stress
+12. External support system
+13. Food tracker: I prefer to meditate
+14. Veggies: Nutrients for nothing and your Satiety for free
+15. Foolish consistency is apparently the hobgoblin of little minds
+16. Mindful eating: What does a yellow light mean?
+17. Realistic sustainable changes
+
+### Additional 
+
+- Consistent meditation on the process on a daily basis
+- Identify points of failure, e.g. improv situations, usually Empty Carbs of Opportunity (ECOs) 
+  - This ***never*** feels like a solved problem; at best a narrow escape
+  - *Maybe* refusals are getting a bit habituated after 3/4 year repetition.
+- Stopping drinking mostly has helped
+  - One glass of vin: Brownies flow in
 
 ### health versus BMI
 
-Writing this up intends to avoid 'this time around' syndrome. It would be very 
-pleasant to solve health once and for good. *Solved* in contrast to *goal reached*. 
-As Cerebus remarks: The novelty of being dropped on your head wears thin
-in a hurry. The novelty of reaching a goal *temporarily* has worn thin, particularly
-the white knuckle feeling of holding a precarious perch. Fortunately
-a precipitating event re-frames *goal* thinking as *solved* thinking. This was my dad dying. 
-He was 28 when I was born. Did a 28 year countdown clock start ticking?
-Am I Bellairs' house? I suppose the answer is 'yes unless' so welcome, future self, to ***unless***.
+To avoid 'this time around' once and for good the expression is *problem solved*, not *goal reached*. 
+A precipitating event (thanks dad) has emphasized this reframe: He was 28 when I was born. Is a 28-year 
+countdown clock ticking now? 
 
 
-I think health is related to a joy in living as a virtuous cycle. Thinking this is so but then failing
-to live that way is a self-swindle: I'm kidding myself to keep a surface level of 
-equanimity while engines of self-destruction churn away below street level. There is a larger 
-problem here and health is symptomatic. But just as I started this with a symptomatic 
-mindset (weight loss, not health gain) I'm happy to change the symptom (health gain, not
-joy in living) in the hope that I'm moving towards sorting that big one out. 
+I hope health is related to joy in living as a virtuous cycle. Otherwise the
+engines of self-destruction churn away below street level. 
 
 
-### misguided tactics 
+I started this in early
+August 2018 with a symptomatic mindset but I'm happy to modify the symptom.
+I began with "100% diet, no exercise" and the weight metric. 
+The nice thing about putting a dent in that is how it opens activity doors. 
 
 
-To reiterate: 'Weight is health' is a good proxie but it's not completely accurate. BMI is a symptom; and 
-not all who sniffle have colds. But: better to start under inaccurate motivations than not start out. I also started 
-out with the idea that weight loss is 90%+ from diet and 10%- from exercise. On prior trips around this loop exercise 
-was the lead dog, doing the 90% heavy lifting.  This time I began with "100% diet, no exercise". The start day after a 
-year of false starts was August 3 2018.
-
-
-Over the first 3/4 year my mindset changed from weight loser to a health manager; but that transition is not done. 
-The phrase 'Use it or lose it' kept playing somewhere in the back of my mind... but only as sloshing gasoline... 
-Then one winter day a playdate at the Seattle Boulder Project obliged me to rent some tight-fitting shoes and a 
-chalk bag and I wandered about and managed a couple of VBs (most basic climbs). That was the match.  
+'Use it or lose it' kept playing somewhere in the back of my mind... but only as sloshing gasoline... 
+SBP was the match.  
 
 
 ### the sub-problem
 
 
-The most important bit of self-advice here: Don't treat 
-an *obstacle* as an obstacle because you habitually dismiss obstacles that have no obvious solution.
-The obstacle disappears from view, becomes an *invisible* obstacle. 
-
-
-Rather: Treat an obstacle as a problem. It is an active challenge to solve it. This absolutely requires looking
-at a *perceived* obstacle and asking over and over again "What is the real obstacle behind this perception?"
+An *obstacle* is not an *obstacle*; it is a solvable problem. Obstacles are eventually ignored and 
+they become invisible; so they do not go away. Invisible hindrances are no trouble at all provided
+you are good with prison.
+*Obstacle as problem* is more difficult. 
+Gaze at a *perceived* obstacle and ask over and over "What is the real obstacle behind this perception?"
 This task -- identifying the *actual* obstacle -- leads to framing a solvable problem. Turning an
 impossible obstacle into an actively solvable problem is the ***sub-problem***. Sub-problem skill is
 the grandest of all skills to develop. I often marvel at how bad I am at sub-problems after I accidentally
-solve one.
+discover or even solve one.
 
 The example here: I don't want to go lift weights at the gym because -- although I know it is good 
 for my health -- it just doesn't sound fun at the moment; so yeah use it or lose it but not today. The perceived
 obstacle is 'get to the gym to lift weights cause it is good for you'. Sub-problem thinking: 'Get to the gym to
 lift' is not the actual problem. What is the actual problem? What is the actual problem?? Oh... the actual 
-problem is 'Find an activity that is fun'. And by accidentally doing *that*...
-
-
+problem is 'Going to the gym to lift has gotten boring. I need to find an activity that is fun'. 
+And by accidentally doing *that*... 
 
 
 ### Friction and Fraction
@@ -158,79 +129,56 @@ problem is 'Find an activity that is fun'. And by accidentally doing *that*...
 Taking the health problem as *large* it must be amenable to a *large* solution. This is ***False***. 
 
 
-Why is it False? Because it's me. The approach this final time around is a large solution 
-fractionated into many many small pieces. 17 keys to success? Don't make me laugh; I need at least 429
-of them, each key to be sub-fractionated into a score: How well am I doing with this small key? 
-For example reducing sugar consumption is a fractional goal but I still put sugar in my morning coffee. 
+Why is it False? Because this final time around a large solution 
+is getting fractionated into many many small pieces. 17 keys to success? I need at least 429
+keys. I still put sugar in my morning coffee... there's a key. 
 Fractionation through self-reflection. 
 
 
-Friction acts against motion. The habits I have to change are so ingrained that I cannot
-hope to simply contravene them, certainly not all at once. The best I could hope for would be to create little
-bits of resistance to try and slow down the habit. Slow a freight train with a Q-tip. 
-But there is no end to the supply of Q-tips for an imaginative soul. If there is a world made real 
+I cannot
+hope to simply contravene ingrained habit, certainly not all at once. 
+Perhaps I *can* create little
+bits of resistance to try and slow down the habit. Slow a freight train with many q-tips. 
+If there is a world made real 
 by thought (for there is nothing either good or bad but thinking makes it so) then my thought solution is 
-to create so many Q-tip frictions slowing my habits that eventually measurable changes will appear. 
+to create so many Q-tip frictions slowing my habits that eventually measurable changes emerge. 
 Thinking makes it so.
 
 
 ### Daily weigh in 
 
-
-In the dreadful fantasy series 'Chronicles of Amber' Zelazny describes a pattern drawn on the ground. 
-It is like a chalk path drawn on parking lot asphalt. One must 'walk the pattern'. Doing so is 
-a magical and difficult procedure. But nce through one is rejuvenated to teleport to the next story. 
-
-
-Every day I walk my pattern along numbered parking spots. I
-start at my starting weight X and walk down the numbers to arrive at my weight today Z 
+Every day I walk a pattern along numbered parking spots. I
+start at my starting weight and walk down the numbers to arrive at my weight 
 as measured that morning. 
-I often miss the next bus to finish. I imagine the (X-Z) pounds lifting
-off as I walk, one of several time set-asides each day to live inside health as process. 
-This helps dispel a white knuckle feeling of irrational despair. I look at the big 
-project and unable to solve it want to move on to a serving of chocolate cake please. 
-No, I will take the habit of the ceremony and let the hands relax. Geek Climber says to 
-treat the holds like lightbulbs and be surprised at how little force is required
+I often miss a bus to finish this ritual. I imagine the pounds lifting
+off as I walk. The habit of the ceremony helps me focus. Geek Climber recommends we
+treat holds like lightbulbs and be surprised at how little force is required
 to stay on the wall. 
 
 
-### Once and for good
-
-
-Here I need to find the sub-problem. Shout out to the un-found sub-problem. 
-
-
-I do not know the way to changing *goal* to *solved*. 
-
-
-ohhhhhh maybe i found it without realizing it. Maybe the thing is internalizing sub-problem thinking. 
-Bit of a logical land mine but I will think more about this. 
-
 ### climbing 
 
-I need core and flexibility. And to be lighter because how many cookies does one wish to bring up 
-the problem? With 28 years left: Going to 3/4 the mass -- a healthy mass -- I get another 7 years 
-here.  However I choose to think of it as nonlinear in my favor. I get forever. 
+How many cookies does one wish to bring up the problem? Leave them on the mat. 
+With 28 years left: At 3/4 the mass I get another 7 years here.  Or more. 
 
 
 ### lament
 
-* I never lost so much as an ounce of weight by passing up a cookie
-* Therefore when I failed to eat a thousand cookies I lost no weight...
-* ...but rather was just 1000 cookies sadder
-* Therefore I should eat 1000 cookies
-* And so die young and happy, full of cookies
+* Nobody ever lost so much as an ounce of weight by passing up a cookie
+* I failed to eat a thousand cookies but lost no weight...
+* ...rather was simply 1000 cookies sadder
+* I should eat 1000 cookies
+* And die young and happy, full of cookies
 * I don't want to die young and happy 
-* So I must kill the version of myself who dies young and happy so he can't die young and happy
-* That version of myself young, happy and full of cookies carried around a weight of (X-Y) pounds, poor fellow
-* He did not complain about this
-* In fact he smiled a lot of the time and he made jokes and he tried to contribute to the world
-* He was an honorable fellow... and now I contemplate having killed him
+* So... I must kill all the versions of myself who die young and happy
+* Myself young, happy and full of cookies has carried around a sixty pound sack of rocks, poor fellow
+* He did not complain
+* He smiled a great deal and made jokes; and he tried to contribute to the world
+* He was an honorable fellow... and I am killing him
 * I mourn his loss, I mourn the loss of this poor fellow myself-full-of-cookies
-* If it becomes unbearable I can bring him back to life simply by eating a cookie
-* Meanwhile he has been replaced by a chap carrying around (Z-Y) extra pounds...
-* ...whom I must kill and replace, kill and replace, until Z = Y
-* ...halfway there...
+* If it becomes unbearable... I can bring him back to life
+* ...by eating a cookie
+
 
 # solved
 
