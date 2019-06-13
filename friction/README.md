@@ -5,19 +5,24 @@ Health. See also the
 
 | Activity | Amount | Unit | Date | Note |
 | -------- | ------ | --- | ---- | ---- |
-| scale | 240 | | 03-AUG-2018 | |
-| pull ups | 20 | rpw | 11-JUN-2019 | Band-assist or without (some rests) |
-| pull ups | 0 | Day | | From dead hang |
-| push ups | 20 | rpw | | 'half' > nose touch |
-| push ups | 5 | try | | (nose touch) |
-| 1.5 pad hang | 20 | sec | | deepest groove |
-| 1 pad hang | 0 | sec | | deepest groove |
-| half pad hang | 0 | sec | | deepest groove |
-| scale | 211 | | | |
-| core work | 10 x 5 x 3 | rpw | | routine from climber vids |
-| 0 | laps | rpw | | swimming cardio not started |
-| 0.13 | miles | pw | | at 9:20 / mile treadmill |
-| 500 | meters | pw | | rowing machine |
+| indicators |
+| scale | 240 | lbs | 03-AUG-2018 | |
+| scale | 209 | lbs | 12-JUN-2019| |
+| strength |
+| pull ups | 20 | rpw | 11-JUN-2019 | Band-assist|
+| pull ups | 3 | rpw | |  no assist|
+| pull ups | 0 | rpw | | From dead hang |
+| push ups | 20 | rpw | | half-ass |
+| push ups | 3 | try | | real | 
+| Hangboard |
+| 1.5 pad hang | 20 | sec | 11-JUN-2019 | deepest groove |
+| 1 pad hang | 0 | sec | | second deepest groove |
+| half pad hang | 0 | sec | | shallow groove |
+| core and cardio |
+| circuit | 10 x 5 x 3 | rpw | 11-JUN-2019 | primarily from climber Anna Davey |
+| swim | 0 | laps | | swimming cardio (not started) |
+| run | 0.13 | miles | | rate is 9:20 mile treadmill |
+| row | 500 | meters | | | |
 
 
 
