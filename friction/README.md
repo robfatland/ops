@@ -3,27 +3,27 @@
 Health. See also the 
 [**sub-problem**](https://github.com/robfatland/ops/blob/master/friction/README.md#the-sub-problem) section below.
 
-| Activity | Amount | Unit | Date | Note |
+| Activity | Amount |  | Date | Note |
 | -------- | ------ | --- | ---- | ---- |
 | indicators |
-| scale | 240 | lbs | 03-AUG-2018 | BMI 30.8 |
-| scale | 209 | lbs | 12-JUN-2019| BMI 26.8 |
+| scale | 240 |  | 03-AUG-2018 | BMI 30.8 |
+| scale | 209 |  | 12-JUN-2019| BMI 26.8 |
 | goals... | 204 JUL 3 | 199 AUG 3 | 194 AUG 26 | ...177 |
 | strength |
-| pull ups | 20 | rpw | 11-JUN-2019 | Band-assist|
-| pull ups | 3 | rpw | |  no assist|
-| pull ups | 0 | rpw | | From dead hang |
-| push ups | 20 | rpw | | half-ass |
-| push ups | 3 | try | | real | 
+| pull ups | 20 |  | 11-JUN-2019 | Band-assist|
+| pull ups | 3 |  | |  no assist|
+| pull ups | 0 |  | | From dead hang |
+| push ups | 20 |  | | half-ass |
+| push ups | 3 |  | | real | 
 | Hangboard |
-| 1.5 pad hang | 20 | sec | 11-JUN-2019 | deepest groove |
-| 1 pad hang | 0 | sec | | second deepest groove |
-| half pad hang | 0 | sec | | shallow groove |
+| 1.5 pad hang | 20 sec | | 11-JUN-2019 | deepest groove |
+| 1 pad hang | 0 sec | | | second deepest groove |
+| half pad hang | 0 sec | | | shallow groove |
 | core and cardio |
 | circuit | 10 x 5 x 3 | rpw | 11-JUN-2019 | primarily from climber Anna Davey |
-| swim | 0 | laps | | swimming cardio (not started) |
-| run | 0.13 | miles | | rate is 9:20 mile treadmill |
-| row | 500 | meters | | | |
+| swim | n/a |  | | swimming cardio (not started) |
+| run | 0.13 mi | | | rate is 9:20 mile treadmill |
+| row | 500m | | | | |
 
 
 
