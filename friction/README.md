@@ -15,13 +15,14 @@ Health. See also the
 | pull ups | 0 |  | dead hang |
 | push ups | 20 |  | half-ass |
 | push ups | 3 |  | real | 
+| pull-downs | 1750 lbs | | |
 | hangboard / climbing |
 | 1.5 pad hang | 20 sec | 11-JUN-2019 | deepest groove |
 | 1 pad hang | 0 sec | | second deepest groove |
 | half pad hang | 0 sec | | shallow groove |
 | core and cardio |
 | circuit | 10 x 5 x 3 | 11-JUN-2019 | primarily from climber Anna Davey |
-| swim | n/a | | swimming cardio (not started) |
+| swim | n/a | | |
 | run | 0.13 mi | | at 9:20 mile treadmill |
 | row 1km | n/a | | |
 
@@ -31,11 +32,16 @@ Health. See also the
 
 I'd like to get to V10 boulder problems. 
 
+Additional for the gym: Levers and other bar variants; road cardio; swimming and rowing.
+Mitbo has great ideas in a 'training w/out climbing' video. Some activation choices like 
+climbing the stairs, commute to the bus by bike. Free weight work.  
+
+
 
 ### how many calories in a dove milk chocolate? 
 
 
-Answer: 30. So I just had 120 calories. 
+Answer: 30. So I just had 120 calories. Worth it.
 
 
 ### useful ideas
@@ -44,7 +50,7 @@ Answer: 30. So I just had 120 calories.
   - Perception and habit are *trained*
 - Nutrition includes complex carbs, vegetables, fat, and protein
   - Good and bad... although vegetables are generally just good
-- The *invisibility* principle states 'There are invisible forces working against you; all based in your head'
+- The *invisibility* principle: 'There are invisible forces working against you; all based in your head'
   - Fitness program people are doing a job whereas this is the acolyte's *life* at stake
 - Deep motivation is difficult but effective 
   - Passive and reactive habits take years of reps to re-train
@@ -64,26 +70,23 @@ Sustainability is complex. Here are some elements.
 4. Daily weigh-in
 5. Moderate carbs to less less less less
 6. Resistance training progression
-7. Setbacks happen; white knuckle problem
+7. Setbacks happen; white knuckle problem. Embrace the white knuckles.
 8. Weekend deviation is real pressure; particularly alcohol carbs and chocolate
-9. Hydrate...
+9. Hydrate... what does that mean?
 10. Sleep enough
 11. Control stress
 12. External support system
-13. Food tracker: I prefer to meditate
+13. Food tracker: Maybe a little bit.
 14. Veggies: Nutrients for nothing and your Satiety for free
 15. Foolish consistency is apparently the hobgoblin of little minds
 16. Mindful eating: What does a yellow light mean?
 17. Realistic sustainable changes
-
-### Additional 
-
-- Consistent meditation on the process on a daily basis
-- Identify points of failure, e.g. improv situations, usually Empty Carbs of Opportunity (ECOs) 
+18. Consistent meditation on the process on a daily basis
+19. Identify points of failure, usually Empty Carbs of Opportunity (ECOs)  
   - This ***never*** feels like a solved problem; at best a narrow escape
-  - *Maybe* refusals are getting a bit habituated after 3/4 year repetition.
-- Stopping drinking mostly has helped
-  - One glass of vin: Brownies flow in
+20. Mostly-stopped drinking has helped... "One glass of vin: The brownies flow in"
+21. Walking the pattern as a reward is very motivating
+22. Sea weed and sunflower kernels and Gu stopgaps
 
 ### health versus BMI
 
