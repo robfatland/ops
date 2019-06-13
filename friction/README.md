@@ -23,7 +23,7 @@ Health. See also the
 | circuit | 10 x 5 x 3 | 11-JUN-2019 | primarily from climber Anna Davey |
 | swim | n/a | | swimming cardio (not started) |
 | run | 0.13 mi | | at 9:20 mile treadmill |
-| row | 500m | | |
+| row 1km | n/a | | |
 
 
 
