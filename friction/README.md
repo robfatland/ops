@@ -8,7 +8,7 @@ Health. See also the
 | indicators |
 | scale | 240 |  03-AUG-2018 | BMI 30.8 |
 | scale | 209 |  12-JUN-2019 | BMI 26.8 |
-| goals... | 204  | JUL 3 | ...and 199 AUG 3, 194 AUG 26, ...177; but see 'problem solved' vs 'goal reached' below |
+| goals... | 204  | JUL 3 | ...and 199 AUG 3, 194 AUG 26, ...177 |
 | strength |
 | pull ups | 20 |  11-JUN-2019 | Band-assist|
 | pull ups | 3 |  |  no assist|
