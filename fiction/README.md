@@ -1,5 +1,7 @@
 # Time Travel Story
 
+For Boom...
+
 It began one day in the book stalls along the Seine, the 'only river that runs between two bookshelves'. 
 The Bouquinistes, I should say; it is better to speak in French when you can, when there are special words; they are 
 always more beautiful. In fact it began earlier though, *plus t&#244;t*. It began in the Louvre as I walked among
