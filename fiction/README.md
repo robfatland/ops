@@ -2,12 +2,12 @@
 
 For Boom...
 
-It began one day in the book stalls along the Seine, the 'only river that runs between two bookshelves'. 
-The Bouquinistes, I should say; it is better to speak in French when you can, when there are special words; they are 
-always more beautiful. In fact it began earlier though, *plus t&#244;t*. It began in the Louvre as I walked among
-the galleries, walking through time, wishing that I understood
-why these paintings were here, what they meant, in these places of honor. Were they simply the only paintings that
-had survived the 1600s? Was there a story behind them?
+It began one day on the left bank of the 'only river that runs between two bookshelves'. 
+The Bouquinistes--we use the beautiful French words when can--but really it began earlier (*plus t&#244;t*)
+in the Louvre as I walked
+the galleries, walked in time, wondering
+why these paintings were here, what they meant, the stories behind such places of honor. 
+Were they simply here by virtue of having survived four centuries of rasping wear?
 
 
 As I walked through the crowds, growing more disenchanted, a word from my school days made its way through 
