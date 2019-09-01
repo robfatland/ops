@@ -1,5 +1,11 @@
 # Cubase projects
 
+## Born To Produce Beginner Tutorial 
+
+* btpbeginnertutorial
+* Note the similarity in Jay's accent to that of Graham Chapman in the Ethel The Frog sketch ("My name's not Clement.")
+
+
 ## Redshift
 
 ## Sonreir
