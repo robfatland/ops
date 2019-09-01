@@ -5,7 +5,7 @@
 * btpbeginnertutorial
 * Note the similarity in Jay's accent to that of Graham Chapman in the Ethel The Frog sketch ("My name's not Clement.")
 
-### Notes on new learning
+### Review perfunctories / accelerators until second nature
 
 * Before proceeding with the project check...
   * ...VST Studio in Studio: Ensure correct driver is selected
@@ -15,7 +15,7 @@
   * shift + left to set track color
     * drums are green, production tracks are different green; kbd red; bass yellow
   * shift B/N for start/end of loop
-  * Move cycle markers: ctrl - left / alt - left
+  * Move cycle markers: ctrl - left / alt - left (don't go scanning for them!)
 
 
 ## Redshift
