@@ -18,6 +18,7 @@
     * drums are green, production tracks are different green; kbd red; bass yellow
   * shift B/N for start/end of loop
     * Select event and alt + p sets the loop on that precise event and starts playback
+      * p by itself, no alt, resets the loop range to the currently selected event
   * Move cycle markers: ctrl - left / alt - left (don't go scanning for them!)
   * alt = draw tool or cut tool based on context (outside / inside event)
   
