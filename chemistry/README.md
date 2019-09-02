@@ -126,6 +126,16 @@ and then Professor Erlenmeyer says 'Sit ***down*** Ms. Granger.'
 26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
 
 
+Spoiler alert: This could be wrong. 
+
+
+0.25 moles per liter KMnO4 x (answer) mL = 0.0045 moles of KMnO4
+
+
+
+### Problem 27 Solution
+
+
 27. Suppose you needed to prepare a 100mL solution of 1.05M NaOH using 1.5M NaOH, distilled water, and a 100mL 
 graduated cylinder. How would you do this?
 
