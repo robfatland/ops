@@ -1,4 +1,4 @@
-Suppose we have to start doing chemistry problems and we are presented with these two: 
+Suppose we have to start doing chemistry problems and we are presented with: 
 
 26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
 
@@ -9,13 +9,14 @@ graduated cylinder. How would you do this?
 
 ***Before I begin working on this let me remark that I write using both markdown and LaTeX. Markdown afaik does not
 support subscript / superscript; so I use LaTeX. Therefore C with a subscript of 12 could be written C_{12} and H 
-with a superscript + might be written H^+ or H^{+}. That's the translation.***
+with a superscript + might be written H^+ or H^{+}. Also a number written as 6e23 is read as 'six times ten
+raised to the 23rd power'. That's how to translate some of my notation.***
 
 
 A couple of observations to begin with: We need a good working definition of both **moles** and **molarity**. We also need
-a good agreement on how we derive the mass of an atom or molecule. And we need to know why they stipulated a graduated cylinder. 
-So this is four questions that I will answer; and after that I will come back and re-state the problems and we can hope they
-will be solvable at that point. 
+a good agreement on how we derive the **mass** of an atom or molecule. And we need to know why they stipulated a 
+**graduated cylinder**. So this is four questions that I will answer. After that I will come back to and re-state 
+the problems where we will hope they will be more tractable. 
 
 
 One mole of something is one Avogadro's number of it; which is approximately 6e23 particles. That is 6 times ten raised 
