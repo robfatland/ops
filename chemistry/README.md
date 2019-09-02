@@ -79,5 +79,48 @@ One holds precisely 900mL and the other holds 400mL. Using a spigot of water flo
 chemistry lab: How would you obtain 300mL of water? 
 
 
+### molarity
+
+
+I saved this one for last as the most important and the most difficult to comprehend. Molarity is moles per liter.
+
+
+### molarity revisited
+
+
+Ok maybe I should expand that out a little bit. What I mean by molarity...
+
+
+Molarity is a measure of concentration. If you add salt and more salt and more salt to a glass of water
+you are increasing the concentration -- the molar concentration -- or the molarity -- of the salt in the 
+water. Of course as you add salt you could tip out some of the solution to keep the volume of the solution
+constant. Since you are adding in pure salt and tipping out water-with-salt-dissolved the salt is winning
+and the concentration of salt increases. Let's restate this idea of concentration using more words.
+First take a deep breath; then read aloud if possible...
+
+
+Moles of something (say methane) per liters of something else (say kerosene) is molar concentration, also
+called molarity. We might say that moles of sodium hydroxide per liter of water is another measure of 
+molarity. Moles per liter is sometimes abbreviated as mol/L or the more confusing molL-1 which unpacks as 
+moles = mol and liters = L and 'raised to the -1' means you put it in the denominator so you get moles 
+divided by liters. So ten moles of some solute -- some *thing* -- in 20 liters of some solvent -- some 
+*liquidy thing* -- would be 0.5 molar concentration or 0.5 moles per liter.
+
+
+What is the molarity of water dissolved in water? This is a ludicrous question but let's think about it.
+We have one liter of water which is 10 x 10 x 10 centimeters. One cubic centimeter of water weighs one gram. 
+One liter of water weighs 10 x 10 x 10 = 1000 grams. One molecule of water weighs 18 Daltons. One mole of 
+water weighs 18 grams. So 1000 grams of water contains 1000 / 18 = 55.555 moles of water. Rounding up: 
+Water is 56 moles per liter that we have dissolved "in itself". There's nothing wrong with this; but it is
+a bit weird that the solute and the solvent are the same thing. Usually in chemistry class the solute is not
+the solvent; so it would take a real smarty-pants to say 'You know the concentration of water is 56 moles per liter'
+and then Professor Erlenmeyer says 'Sit down Ms. Granger.'
+
+
+### Problem 26 Solution
+
+
+
+
 
 
