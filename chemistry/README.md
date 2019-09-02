@@ -3,6 +3,7 @@
 
 Suppose we have to start doing chemistry problems and we are presented with: 
 
+
 26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
 
 
@@ -13,7 +14,8 @@ graduated cylinder. How would you do this?
 ***Before I begin working on this let me remark that I write using both markdown and LaTeX. Markdown afaik does not
 support subscript / superscript; so I use LaTeX. Therefore C with a subscript of 12 could be written C_{12} and H 
 with a superscript + might be written H^+ or H^{+}. Also a number written as 6e23 is read as 'six times ten
-raised to the 23rd power'. That's how to translate some of my notation.***
+raised to the 23rd power'. That's how to translate some of my notation; and this issue will go away when
+we add binder to the situation.***
 
 
 ### Define four ideas
@@ -120,6 +122,12 @@ and then Professor Erlenmeyer says 'Sit ***down*** Ms. Granger.'
 
 ### Problem 26 Solution
 
+
+26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
+
+
+27. Suppose you needed to prepare a 100mL solution of 1.05M NaOH using 1.5M NaOH, distilled water, and a 100mL 
+graduated cylinder. How would you do this?
 
 
 
