@@ -123,7 +123,7 @@ and then Professor Erlenmeyer says 'Sit ***down*** Ms. Granger.'
 ### Problem 26 Solution
 
 
-26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
+> 26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
 
 
 Spoiler alert: This could be wrong... but there is a better than 50% chance that it is right, in my estimation.
@@ -141,6 +141,7 @@ KMnO4 in grams; so we do not need Daltons or grams. This is a convenient aspect 
 
 X (milliliters) x (1 liter / 1000 milliliters) x 0.25 (moles / liter) = 0.0045 moles
 
+
 This in English is "X-many milliliters of concentration 0.25 moles per liter equals .0045 moles; and don't forget to convert
 from liters to milliliters." Notice that the molarity M I have written as moles / liter. The word 'liter' in the denominator
 cancels the word 'liter' in the numerator of the (1/1000) fraction. The 'milliliters' also cancel leaving just moles. That is:
@@ -150,13 +151,14 @@ that our units balance out.
 
 Now numerically: When you take everything but **X** over to the right side you get 0.0045 * 1000 / 0.25 which is 18.
 
+
 ***Answer: 18 milliliters***
 
 
 ### Problem 27 Solution
 
 
-27. Suppose you needed to prepare a 100mL solution of 1.05M NaOH using 1.5M NaOH, distilled water, and a 100mL 
+> 27. Suppose you needed to prepare a 100mL solution of 1.05M NaOH using 1.5M NaOH, distilled water, and a 100mL 
 graduated cylinder. How would you do this? 
 
 
