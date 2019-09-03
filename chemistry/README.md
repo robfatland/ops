@@ -1,3 +1,6 @@
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/robfatland/ops/chemistry/master)
+
+
 ## A couple of chemistry problems
 
 
