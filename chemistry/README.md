@@ -126,19 +126,66 @@ and then Professor Erlenmeyer says 'Sit ***down*** Ms. Granger.'
 26. How many mL of 0.25M KMnO4 are needed to deliver 0.00450 moles of KMnO4 during a chemical reaction? 
 
 
-Spoiler alert: This could be wrong. 
+Spoiler alert: This could be wrong... but there is a better than 50% chance that it is right, in my estimation.
 
 
-0.25 moles per liter KMnO4 x (answer) mL = 0.0045 moles of KMnO4
+Let's call the answer **X** milliliters and notice the difference between the answer they want (X in milliliters) 
+and the definition of molarity (moles per liter) that we work with. This we can address with unitary analysis: Keeping 
+all the units in play to make sure the answer we get is in the units we want. In particular we introduce the ratio
+of liters to milliliters as (1 / 1000) (liters / milliliter). 
 
+
+By the way: Since we are working with moles and volumes we never actually need to calculate the mass of the 
+KMnO4 in grams; so we do not need Daltons or grams. This is a convenient aspect of working with moles like me. 
+
+
+X (milliliters) x (1 liter / 1000 milliliters) x 0.25 (moles / liter) = 0.0045 moles
+
+This in English is "X-many milliliters of concentration 0.25 moles per liter equals .0045 moles; and don't forget to convert
+from liters to milliliters." Notice that the molarity M I have written as moles / liter. The word 'liter' in the denominator
+cancels the word 'liter' in the numerator of the (1/1000) fraction. The 'milliliters' also cancel leaving just moles. That is:
+On the left side the only units that don't cancel out are moles and that is also what we have on the right side. This means
+that our units balance out. 
+
+
+Now numerically: When you take everything but **X** over to the right side you get 0.0045 * 1000 / 0.25 which is 18.
+
+***Answer: 18 milliliters***
 
 
 ### Problem 27 Solution
 
 
 27. Suppose you needed to prepare a 100mL solution of 1.05M NaOH using 1.5M NaOH, distilled water, and a 100mL 
-graduated cylinder. How would you do this?
+graduated cylinder. How would you do this? 
 
+
+First we notice we are starting with a concentration of 1.5M NaOH and ending with a concentration of 1.05M. 
+This is good news because it means we are simply going to dilute the original solution. How much of it do we 
+pour into the graduated cyclinder before topping it off with distilled water? Let's call that amount **Y**. 
+
+
+I'm going to place the **Y** ml of 1.5M NaOH on the left side of an equation and multiply by the molar 
+concentration to arrive at a number of moles. On the right I also calculate how many moles we would have
+of NaOH if we have a volume of 100 ml (I use 1/10 liter) and a molar concentration of 1.05 mol / liter: 
+
+
+**Y** ml x (1/1000) (liters/ml) x 1.5 moles / liter = (1/10) liters x 1.05 (mol / liter)
+
+
+Again we have the units canceling leaving moles = moles; so that's good. The numbers give us Y = 70 ml. 
+This makes sense because we are going from a concentration of 1.5M to 1.05M which is a bit more than
+two-thirds; and 70 is a bit more than 2/3 of 100, the volume of the graduated cylinder. 
+
+
+***Answer: Pour 30 ml of distilled water in the cylinder and add 70 ml of 1.5M NaOH solution.***
+
+
+I have no idea if the order is correct here; but I am reasoning as follows: It is difficult to 
+stir the contents of a graduated cylinder; and the NaOH is probably denser than the distilled 
+water based on the relative molecular weights. If I pour in the NaOH first and then add water
+the NaOH will stay on the bottom and perhaps not mix very well. If I do it in the other order
+maybe the NaOH will mix itself into the water. That's really just a guess. 
 
 
 
