@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/robfatland/ops/chemistry/master)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/robfatland/ops/master/chemistry)
 
 
 ## A couple of chemistry problems
