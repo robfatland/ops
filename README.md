@@ -1,6 +1,6 @@
 # ops
 
-[Project/ops nexus](http://github.com/robfatland/ops) &cedilla \c{c} ce (includes [streets](https://web6.seattle.gov/travelers/), [tides](http://www.dairiki.org/tides/daily.php/ert) and [Oncorhynchus](http://github.com/robfatland/flyingbosun)).
+[Project/ops nexus](http://github.com/robfatland/ops) &euro; &cedilla; ce (includes [streets](https://web6.seattle.gov/travelers/), [tides](http://www.dairiki.org/tides/daily.php/ert) and [Oncorhynchus](http://github.com/robfatland/flyingbosun)).
 
 
 ## projects
