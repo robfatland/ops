@@ -76,8 +76,19 @@ This should go into POETs repo:
 
 factor in: 
 
+
+* old website stuff is out there somewhere
+
+
+* SEAMONSTER stuff is out there somewhere
+
+
+* Narwhal stuff is out there somehwere
+
+
 * [High Mountain Asia](http://himat.org/) and 
 [our ++](https://cloudmaven.github.io/documentation/ccs_high_mountain_asia.html)
+
 
 * [Data8 / Jupyter classrooms](http://data8.org/), also [Zero2JHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
 
