@@ -8,6 +8,7 @@ Operations manual for people who learn by writing stuff out for their damn selve
 
 Let's do away with all the obvious stuff and in the next section focus on confusion.
 
+- (antiquated?) [user manual](https://www.zikinf.com/manuels/nux-loop-core-deluxe-manuel-utilisateur-en-70325.pdf)
 - Dispense with the concentric volume knobs: Two knobs, two functions, end of story
 - Dispense with v ^ as chooser controls in any given menu, end of story
 - There are now five controls to figure out plus...
