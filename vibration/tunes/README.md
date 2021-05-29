@@ -29,7 +29,7 @@ Example: 473 is 47 x 10^3 = 47000 pF = 47 nF = 0.047 uF
 
 This is strictly analog. 
 
-* [manual](effectpedalkits.com/wp-content/uploads/manuals/moon-fuzz-kit-building-manual.pdf)
+* [manual](https://effectpedalkits.com/wp-content/uploads/manuals/moon-fuzz-kit-building-manual.pdf)
 
 Parts breakdown
 
@@ -45,7 +45,7 @@ Parts breakdown
 
 Digital: Uses a PT2399 digital delay chip. 
 
-* [manual](effectpedalkits.com/wp-content/uploads/manuals/echo-delay-kit-building-manual.pdf)
+* [manual](https://effectpedalkits.com/wp-content/uploads/manuals/echo-delay-kit-building-manual.pdf)
 
 Parts breakdown
 
